@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/critter",
+  "homepage": "https://SR-Delightfully.github.io/critter",
   "private": true,
   "proxy": "http://localhost:31415",
   "dependencies": {
@@ -18,8 +18,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-   "predeploy": "npm run build",
- "deploy": "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

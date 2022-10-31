@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/critter/static/js/main.bca3f806.js",
+    "index.html": "/critter/index.html",
+    "main.bca3f806.js.map": "/critter/static/js/main.bca3f806.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bca3f806.js"
+  ]
+}
